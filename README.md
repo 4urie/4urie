@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **IoT or real-time system projects**
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/nellasaurie)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/4urie)
 
 - 📫 How to reach me: **nellas.aurie@dnsc.edu.ph**
 
