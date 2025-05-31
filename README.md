@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aurie</h1>
 <h3 align="center">A passionate BSIT student diving into Networking & IoT</h3>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nellasaurie.nellasaurie)
 
 - 🔭 I’m currently working on **a gesture-controlled video recorder using Python & OpenCV**
 
