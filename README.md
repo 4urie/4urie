@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://postimg.cc/GT4zFcyq" alt="Aurie's Cover Photo" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aurie</h1>
 <h3 align="center">BSIT Student | Aspiring Network & IoT Specialist</h3>
-[![Add-a-subheading.png](https://i.postimg.cc/T19SX1YM/Add-a-subheading.png)](https://postimg.cc/GT4zFcyq)
 
 ---
 
@@ -45,4 +48,3 @@ Currently diving deep into **Networking, IoT**, and **Web Development** tools.
 
 ### ⚡ Fun Fact
 > I play support in Dota 2, but I carry my team in real life tech projects 😄
-
