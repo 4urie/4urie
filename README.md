@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aurie</h1>
 <h3 align="center">BSIT Student | Aspiring Network & IoT Specialist</h3>
-<div class="tenor-gif-embed" data-postid="15482120712945268059" data-share-method="host" data-aspect-ratio="0.86747" data-width="100%"><a href="https://tenor.com/view/anime-boy-kono-subarashii-sekai-ni-shukufuku-wo-konosuba-kazuma-sato-gif-15482120712945268059">Anime Boy GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
