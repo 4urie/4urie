@@ -36,9 +36,9 @@ Currently diving deep into **Networking, IoT**, and **Web Development** tools.
 
 ### 📊 GitHub Stats
 
-![Aurie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nellasaurie&show_icons=true&theme=tokyonight)
+![Aurie's GitHub stats](https://github-readme-stats.vercel.app/api?username=4urie&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nellasaurie&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4urie&layout=compact&theme=tokyonight)
 
 ---
 
