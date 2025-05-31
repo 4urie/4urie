@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aurie</h1>
 <h3 align="center">BSIT Student | Aspiring Network & IoT Specialist</h3>
-
+[![Add-a-subheading.png](https://i.postimg.cc/T19SX1YM/Add-a-subheading.png)](https://postimg.cc/GT4zFcyq)
 
 ---
 
