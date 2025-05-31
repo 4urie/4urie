@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aurie</h1>
 <h3 align="center">BSIT Student | Aspiring Network & IoT Specialist</h3>
- <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ---
 
