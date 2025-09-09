@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aurie</h1>
-<h3 align="center">BSIT Student | Aspiring Network & IoT Specialist</h3>
+<h3 align="center">BSIT Student | Aspiring Network & missing her</h3>
 
 ---
 
