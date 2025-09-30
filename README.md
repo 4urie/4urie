@@ -23,6 +23,38 @@ I'm passionate about building real-world systems that bridge the digital and phy
 
 ---
 
+## 💡 What I Can Do
+
+### 🖥️ Web Development
+- **Full-Stack Development**: Build complete web applications using PHP/Laravel and Python/Django
+- **Database Design**: Create and optimize MySQL databases for efficient data management
+- **RESTful APIs**: Develop robust APIs for seamless frontend-backend communication
+- **Responsive UI**: Create user-friendly interfaces that work across all devices
+
+### 🌐 Network Engineering
+- **Network Monitoring**: Develop custom dashboards for network performance tracking
+- **Protocol Analysis**: Work with advanced networking protocols and configurations
+- **Infrastructure Setup**: Design and implement network architectures
+
+### 🔧 IoT & Hardware Solutions
+- **ESP32 Development**: Build smart automation systems with sensor integration
+- **Arduino Projects**: Create custom hardware solutions for various applications
+- **Raspberry Pi Systems**: Develop IoT projects and embedded applications
+- **Sensor Integration**: Connect and program various sensors for data collection
+
+### 📊 Data & Analytics
+- **Student Management Systems**: Develop comprehensive educational management platforms
+- **Dashboard Creation**: Build interactive dashboards for data visualization
+- **Database Optimization**: Improve database performance and query efficiency
+
+### 🛠️ Technical Consulting
+- **Code Reviews**: Analyze and improve existing codebases
+- **System Architecture**: Design scalable and maintainable software systems
+- **Problem Solving**: Debug complex technical issues across multiple technologies
+- **Mentoring**: Share knowledge in Python, PHP, JavaScript, and IoT development
+
+---
+
 ## 🎯 Current Goals
 
 ```python
