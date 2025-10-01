@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.postimg.cc/52Y1dhT7/Add-a-subheading.png" alt="Aurie's Cover Photo" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Aurie</h1>
 <h3 align="center">BSIT Student | Aspiring Network Engineer & Full-Stack Developer</h3>
