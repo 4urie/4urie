@@ -13,8 +13,9 @@
 I'm passionate about building real-world systems that bridge the digital and physical world. Currently exploring the intersection of **Networking**, **IoT**, and **Web Development** to create innovative solutions.
 
 - 🔭 I'm currently working on **IoT projects with ESP32 and sensor integration**
-- 🌱 I'm learning **Django, Advanced Networking Protocols, and Cloud Computing**
+- 🌱 Learning React, Django, Advanced Networking Protocols, Cloud Computing, and modern web development techniques**
 - 💬 Ask me about **Laravel, Python, MySQL, or anything tech-related**
+- 💻 Experienced in React, Bootstrap, EmailJS, PHP, and building responsive web portfolios**
 - ⚡ Fun fact: **I play support in Dota 2, but I carry my team in real-life tech projects 😄**
 - 💔 **Missing someone special while coding...**
 
