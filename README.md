@@ -87,8 +87,10 @@ goals = {
 
 ## 📈 Activity Graph
 
+
 ![Aurie GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=4urie&theme=react-dark&hide_border=true)
 
+      
 
 ---
 
