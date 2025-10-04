@@ -87,9 +87,8 @@ goals = {
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4urie&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+![Aurie GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=4urie&theme=react-dark&hide_border=true)
+
 
 ---
 
