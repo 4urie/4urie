@@ -119,6 +119,6 @@ goals = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/4urie">4urie</a> with 💙 and ☕</i>
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/4urie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="4urie" /></a></p><br><br>
+
