@@ -1,124 +1,24 @@
+# 4urie
 
-<h1 align="center">Hi 👋, I'm Aurie</h1>
-<h3 align="center">BSIT Student | Aspiring Network Engineer & Full-Stack Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4urie&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+<br><br>
 ---
 
-## 🌟 About Me
+| **Programming_Languages**                           | **Frontend_Tools**                                      | **Backend_Tools**                                       | **Data_Related**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
+| --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| <p align="center">[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/walidbosso) </p>| <p align="center"> [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](https://github.com/walidbosso) </p>| <p align="center">[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)](https://github.com/walidbosso) | <p align="center">[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://github.com/walidbosso) |  <p align="center">[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/walidbosso)  |
+| <p align="center">[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)](https://github.com/walidbosso) | <p align="center">[![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://github.com/walidbosso) | <p align="center"> [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://github.com/walidbosso)  |
+| <p align="center">[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/walidbosso) | <p align="center"> [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://github.com/walidbosso) | <p align="center">[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://github.com/walidbosso) |  <p align="center">[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=ffffff)](https://github.com/walidbosso) | <p align="center">[![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/walidbosso)  |
+|<p align="center"> [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)](https://github.com/walidbosso) |<p align="center"> [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://github.com/walidbosso) |  <p align="center"> [![Sqllite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/walidbosso)                                                 |<p align="center"> [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)](https://github.com/walidbosso)  |
+| <p align="center">[![C](http://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=ffffff)](https://github.com/walidbosso) | <p align="center">[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://github.com/walidbosso) | <p align="center">[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)](https://github.com/walidbosso) |  <p align="center">[![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=Talend&logoColor=white)](https://github.com/walidbosso)  |<p align="center"> [![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://github.com/walidbosso)  |
+| <p align="center"> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/walidbosso) |<p align="center">[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/walidbosso) |<p align="center"> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://github.com/walidbosso) | <p align="center"> [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/walidbosso)  | <p align="center">[![Postman](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)](https://github.com/walidbosso)                                                  |                                            |
+| <p align="center">[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/walidbosso) |<p align="center">[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/walidbosso) | <p align="center"> [![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://github.com/walidbosso)   |  <p align="center"> [![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)](https://github.com/walidbosso)      |  <p align="center">[![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)](https://github.com/walidbosso)  |                                                 |
 
-I'm passionate about building real-world systems that bridge the digital and physical world. Currently exploring the intersection of **Networking**, **IoT**, and **Web Development** to create innovative solutions.
 
-- 🔭 I'm currently working on **IoT projects with ESP32 and sensor integration**
-- 🌱 Learning React, Django, Advanced Networking Protocols, Cloud Computing, and modern web development techniques**
-- 💬 Ask me about **Laravel, Python, MySQL, or anything tech-related**
-- 💻 Experienced in React, Bootstrap, EmailJS, PHP, and building responsive web portfolios**
-- ⚡ Fun fact: **I play support in Dota 2, but I carry my team in real-life tech projects 😄**
-- 💔 **Missing someone special while coding...**
+### 📬 Contact
 
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nellas.aurie@dnsc.edu.ph)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/4urie)
 
-## 🎯 Current Goals
-
-```python
-goals = {
-    "learn": ["Computer Networking", "IoT Systems", "Django Framework"],
-    "build": ["Smart home automation", "Network monitoring tools", "Full-stack web apps"],
-    "master": ["ESP32 development", "RESTful APIs", "Database optimization"]
-}
-```
 
 ---
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  
-
-  
-</p>
-
-### Frameworks & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-</p>
-
-### IoT & Hardware
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="45" height="45"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4urie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4urie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4urie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4urie&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4urie&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 💼 Current Projects
-
-- 🌐 Building a **Django-based web application** for student management
-- 🔌 Developing **ESP32 smart home automation system** with sensor integration
-- 📡 Creating a **network monitoring dashboard** using Python
-- 🎮 Contributing to open-source projects when not gaming
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:nellas.aurie@dnsc.edu.ph">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/4urie">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://www.facebook.com/4urie"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.facebook.com/4urie" /></a></p><br><br>
