@@ -1,7 +1,5 @@
 # 4urie
-
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-<br><br>
+![Image](https://github.com/user-attachments/assets/53d65fee-294b-4113-b0ea-9ad9b007733f)
 
 | **Programming_Languages**                           | **Frontend_Tools**                                      | **Backend_Tools**                                       | **Data_Related**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
 | --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
@@ -13,7 +11,7 @@
 | <p align="center"> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/walidbosso) |<p align="center">[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/walidbosso) |<p align="center"> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://github.com/walidbosso) | <p align="center"> [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/walidbosso)  | <p align="center">[![Postman](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)](https://github.com/walidbosso)                                                  |                                            |
 | <p align="center">[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/walidbosso) |<p align="center">[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/walidbosso) | <p align="center"> [![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://github.com/walidbosso)   |  <p align="center"> [![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)](https://github.com/walidbosso)      |  <p align="center">[![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)](https://github.com/walidbosso)  |                                                 |
 
-
+![Image](https://github.com/user-attachments/assets/8ce333e5-ab5a-424e-ad0f-fca537381c84)
 ### 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nellas.aurie@dnsc.edu.ph)
