@@ -1,6 +1,8 @@
 # 4urie
-![Image](https://github.com/user-attachments/assets/8ce333e5-ab5a-424e-ad0f-fca537381c84)
-![Image](https://github.com/user-attachments/assets/53d65fee-294b-4113-b0ea-9ad9b007733f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ce333e5-ab5a-424e-ad0f-fca537381c84" width="400">
+  <img src="https://github.com/user-attachments/assets/53d65fee-294b-4113-b0ea-9ad9b007733f" width="400">
+</p>
 
 | **Programming_Languages**                           | **Frontend_Tools**                                      | **Backend_Tools**                                       | **Data_Related**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
 | --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
