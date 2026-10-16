@@ -2,9 +2,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ce333e5-ab5a-424e-ad0f-fca537381c84" width="400">
   <img src="https://github.com/user-attachments/assets/53d65fee-294b-4113-b0ea-9ad9b007733f" width="400">
+   <img src="./assets/funny.gif" width="300" alt="Funny GIF">
 </p>
-
-![Funny GIF](https://jumpshare.com/s/MduNaHq5OkcalFXQkSSg)
 
 ##  Tech Stack & Tools
 
