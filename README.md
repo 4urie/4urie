@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/53d65fee-294b-4113-b0ea-9ad9b007733f" width="400">
 </p>
 
+![Funny GIF](https://jumpshare.com/s/MduNaHq5OkcalFXQkSSg)
+
 ##  Tech Stack & Tools
 
 | **Programming Languages** | **Frontend Development** | **Backend Development** | **Databases & Data** | **IDEs & Software** | **Developer Tools** |
